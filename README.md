@@ -5,8 +5,8 @@ I'll try to do a challenge every day.
 ## Problems
 - #1 Two Sum [Finish]
 - #2 Palindrome Number [Finish]
-- #3 Roman to Integer
-- #4 Longest Common Prefix
+- #3 Roman to Integer [Finish]
+- #4 Longest Common Prefix [Finish]
 - #5 Valid Parentheses
 - #6 Merge Two Sorted Lists
 - #7 Remove Duplicates from Sorted Array
