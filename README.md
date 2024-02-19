@@ -7,7 +7,7 @@ I'll try to do a challenge every day.
 - #2 Palindrome Number [Finish]
 - #3 Roman to Integer [Finish]
 - #4 Longest Common Prefix [Finish]
-- #5 Valid Parentheses
+- #5 Valid Parentheses [Finish]
 - #6 Merge Two Sorted Lists
 - #7 Remove Duplicates from Sorted Array
 - #8 Remove Element
