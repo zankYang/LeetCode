@@ -14,3 +14,9 @@ I'll try to do a challenge every day.
 - #9 Find the Index of the First Occurrence in a String
 - #10 Search Insert Position
 - ...
+
+
+Create
+Read
+Update
+Deleted
